@@ -1,0 +1,10 @@
+<addon id="myaddon" name="SportApp" version="1.0.1" provider-name="srdomy">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+    </requires>
+    <extension point="xbmc.addon.metadata">
+        <summary>Descrizione breve</summary>
+        <description>Descrizione dettagliata dell'addon.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
